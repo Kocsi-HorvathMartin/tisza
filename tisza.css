@@ -5,3 +5,7 @@ p{
 footer a, footer a:active, footer a:hover, footer:visited{
     color: white;
 }
+
+h6{
+    text-align: center;
+}
